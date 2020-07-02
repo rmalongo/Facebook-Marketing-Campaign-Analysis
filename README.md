@@ -11,5 +11,5 @@ Use machine learning and data analytics techniques to
 * Suggest other insignts that can improve campaign
 # Impact
 * Increase frequency of Ad set since Ad campaign is within budget; can increase frequency of Ad sets for Age group 25-34
-* Connect with influencers (individuals with defined large following) or industry experts in renewable energy. These can include scientists, business leaders and/or activists who would appreciate the value of company's products. Their positive reactions to the ad can boost conversion rates
-* Forecast incease in customer conversition by 10% if these recommendatios are implemented
+* Connect with influencers (individuals with defined large following) or industry experts. These can include scientists, business leaders and/or activists who would appreciate the value of company's products. Their positive reactions to the ad can boost conversion rates
+* Forecast increase in customer conversion rate by 10% if these recommendations are implemented
