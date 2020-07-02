@@ -1,7 +1,7 @@
 # Facebook-Marketing-Campaign-Analysis
-Improve the FB marketing campaign  for a tech platform in order to increase new customer subscription
+A Multi-Sided Platform (MSP) based company wants to acquire new customers on its platform
 # Scope
-Company conducted a Facebook advertising campaign Facebook advertising campaign
+The company conducted a Facebook advertising campaign Facebook advertising campaign
 focused on customer acquisition (versus brand awareness). The target acquisition cost per customer is $50 or less
 Data provided include ad type, customer demographics, Impressions, Reach, customer engagement and associated costs
 # Vision
