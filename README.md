@@ -6,7 +6,7 @@ focused on customer acquisition (versus brand awareness). The target acquisition
 The data provided include ad type, target demographics, impressions, reach, target engagement, associated costs per click, and click through rates.
 # Vision
 Use machine learning and data analytics techniques to 
-* Analyse effectiveness of the campaign: Meetting expected Conversion rates and target acquisition cost per customer
+* Analyse effectiveness of the campaign: Meeting expected Conversion rates and target acquisition cost per customer
 * Choose best customer group to target
 * Suggest other insignts that can improve campaign
 # Impact
